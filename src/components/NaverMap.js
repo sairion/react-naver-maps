@@ -39,6 +39,7 @@ const mapOptionKeys = [
   'zoomControl',
   'zoomControlOptions',
   'zoomOrigin',
+  'useStyleMap',
 ];
 
 const kvoKeys = [
